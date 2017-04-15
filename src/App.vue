@@ -1,6 +1,7 @@
 <template>
 	<div id="app">
 		<app-message>Welcome to your app</app-message>
+		<p>Lorem ipsum dolor sit amet.</p>
 	</div>
 </template>
 <script>
